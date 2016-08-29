@@ -1,0 +1,6 @@
+D:\TYD\C Program\OPClassProgramDesignFinalExam\OPClassProgramDesignFinalExam\bin\Debug\OPClassProgramDesignFinalExam.exe.config
+D:\TYD\C Program\OPClassProgramDesignFinalExam\OPClassProgramDesignFinalExam\obj\Debug\OPClassProgramDesignFinalExam.csprojResolveAssemblyReference.cache
+D:\TYD\C Program\OPClassProgramDesignFinalExam\OPClassProgramDesignFinalExam\bin\Debug\OPClassProgramDesignFinalExam.exe
+D:\TYD\C Program\OPClassProgramDesignFinalExam\OPClassProgramDesignFinalExam\bin\Debug\OPClassProgramDesignFinalExam.pdb
+D:\TYD\C Program\OPClassProgramDesignFinalExam\OPClassProgramDesignFinalExam\obj\Debug\OPClassProgramDesignFinalExam.exe
+D:\TYD\C Program\OPClassProgramDesignFinalExam\OPClassProgramDesignFinalExam\obj\Debug\OPClassProgramDesignFinalExam.pdb

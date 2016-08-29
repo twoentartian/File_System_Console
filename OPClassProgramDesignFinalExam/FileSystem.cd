@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OPClassProgramDesignFinalExam.FileSystem">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>FileSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OPClassProgramDesignFinalExam.FileAndFolder">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAIAAEAAAAIAQACAAAAAAAAAAQAAAEAAA=</HashCode>
+      <FileName>FileSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OPClassProgramDesignFinalExam.File">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAAgAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OPClassProgramDesignFinalExam.Folder">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAASABAAAAAIAAABAIAAAAAAgAAAAABAAAQAAAAAAA=</HashCode>
+      <FileName>FileSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
